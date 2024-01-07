@@ -50,7 +50,7 @@ I assume that you already have a _GCP Project_ set up, let's say it's called `mi
         Receiving objects: 100% (41/41), 5.80 KiB | 2.90 MiB/s, done.
         Resolving deltas: 100% (23/23), done.
 
-        cloudshell:~ (mining-project-12345)$ cd gcp-ethereum-miner
+        cloudshell:~ (mining-project-12345)$ cd G-Mine-ETC
         cloudshell:~/gcp-ethereum-miner (mining-project-12345)$
 
 5. Configure `terraform.tfvars` to your liking.
