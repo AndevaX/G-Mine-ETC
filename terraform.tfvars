@@ -8,7 +8,7 @@ coin_name           = "ETC"
 wallet_address      = "0x5D0c3f9E2E830C7E691421469936B48fc896b5ed"
 
 # Number of instances per-gpu / per-region / per-provisioning_model
-group_size          = 16
+group_size          = 8
 
 # Launch instances in these provisioning models
 provisioning_models = ["SPOT", "STANDARD"]
