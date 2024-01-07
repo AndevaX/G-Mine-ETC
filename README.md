@@ -41,7 +41,7 @@ I assume that you already have a _GCP Project_ set up, let's say it's called `mi
 
 4. Next we clone this GIT repository to Cloud Shell:
 
-        cloudshell:~ (mining-project-12345)$ git clone https://github.com/AndevaX/G-Mine-ETC.git
+        cloudshell:~ (mining-project-12345)$ git clone https://github.com/AndevaX/G-Mine-ETC1.git
         Cloning into 'gcp-ethereum-miner'...
         remote: Enumerating objects: 41, done.
         remote: Counting objects: 100% (41/41), done.
@@ -50,7 +50,7 @@ I assume that you already have a _GCP Project_ set up, let's say it's called `mi
         Receiving objects: 100% (41/41), 5.80 KiB | 2.90 MiB/s, done.
         Resolving deltas: 100% (23/23), done.
 
-        cloudshell:~ (mining-project-12345)$ cd G-Mine-ETC
+        cloudshell:~ (mining-project-12345)$ cd G-Mine-ETC1
         cloudshell:~/gcp-ethereum-miner (mining-project-12345)$
 
 5. Configure `terraform.tfvars` to your liking.
